@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 700px;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    margin-top: 60px;
+    border-top: 1px solid black;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    font-size: 18px;
+}
